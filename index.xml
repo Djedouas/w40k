@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="W40K JVC" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="W40K JVC" indexUrl="https://github.com/Djedouas/w40k/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer 40.000 9ème Édition.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="Warhammer 40.000 9ème Édition" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Orks V9.catz" dataType="catalogue" dataId="db2b-80bc-3cd3-3097" dataName="Orks V9" dataBattleScribeVersion="2.03" dataRevision="2"/>
